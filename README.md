@@ -12,7 +12,6 @@ I'm currently learning **Data Structures & Algorithms, Full Stack Development, C
 
 Some of my favorite projects include my **Custom PC Builder**, **Hospital AI Monitoring System**, **Fliqoo File Sharing**, and multiplayer web applications.
 
-I've completed virtual internships in **ServiceNow**, **IBM SkillsBuild**, and continue to improve my development skills every day.
 
 ---
 ##  Fun Facts
